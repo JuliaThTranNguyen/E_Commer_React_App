@@ -25,12 +25,12 @@
 **For Backend**
  1. `git clone https://github.com/MohitSojitra/e-commerce-store.git`
  2. `cd e-comerce-backend`
- 3. `yarn`
- 4. `yarn data:import`
- 5. `yarn dev`
+ 3. `npm`
+ 4. `npm data:import`
+ 5. `npm dev`
 
 **For Frontend**
 
  1. `cd e-comerce-frontend`
- 2. `yarn`
- 3. `yarn start`
+ 2. `npm`
+ 3. `npm start`
