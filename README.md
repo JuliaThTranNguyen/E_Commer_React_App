@@ -23,14 +23,13 @@
 
  
 **For Backend**
- 1. `git clone https://github.com/MohitSojitra/e-commerce-store.git`
- 2. `cd e-comerce-backend`
- 3. `npm`
- 4. `npm data:import`
- 5. `npm dev`
+ `cd e-comerce-backend`
+ `npm`
+ `npm data:import`
+ `npm dev`
 
 **For Frontend**
 
- 1. `cd e-comerce-frontend`
- 2. `npm`
- 3. `npm start`
+`cd e-comerce-frontend`
+`npm`
+`npm start`
