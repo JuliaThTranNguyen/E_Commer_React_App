@@ -23,13 +23,13 @@
 
  
 **For Backend**
- `cd e-comerce-backend`
- `npm`
- `npm data:import`
- `npm dev`
+ 1.`cd e-comerce-backend`
+ 2.`npm`
+ 3.`npm data:import`
+ 4.`npm dev`
 
 **For Frontend**
 
-`cd e-comerce-frontend`
-`npm`
-`npm start`
+5.`cd e-comerce-frontend`
+6.`npm`
+7.`npm start`
